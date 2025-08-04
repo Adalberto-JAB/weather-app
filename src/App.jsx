@@ -2,7 +2,7 @@ import { ThemeProvider } from "./providers/ThemeProvider";
 import { NotificationProvider } from "./providers/NotificationProvider"; 
 import { WeatherProvider } from "./providers/WeatherProvider"; 
 
-import HomePage from "./pages/homePage";
+import HomePage from "./pages/HomePage";
 
 const App = () => {
   return (
