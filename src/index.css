@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+/* Importa los estilos CSS de Leaflet, necesarios para el funcionamiento del mapa. */
+@import 'leaflet/dist/leaflet.css';
+@import 'leaflet/';
+
+/* Definición de variables CSS personalizadas para colores de tema.
+🎨 Paleta para Tema Claro */
+.light {
+  --color-text-primary: #1E90FF; /* Color de texto principal (oscuro por defecto). */
+  --color-text-secondary: #A0C4FF; /* Color de texto secundario (gris oscuro). */
+  --color-text-jab: #2C2C2C;
+  --color-bg-primary: #F5F5F5; /* Color de fondo principal (blanco por defecto). */
+  --color-bg-secondary: #D9D9D9; /* Color de fondo secundario (gris muy claro). */
+  --color-border-color: #e2e8f0; /* Color de borde. */
+}
+
+/* 
+🌙 Paleta para Tema Oscuro */
+.dark {
+  --color-text-primary: #0A66C2; /* Texto principal claro en modo oscuro. */
+  --color-text-secondary: #003366; /* Texto secundario más claro en modo oscuro. */
+  --color-text-jab: #D9D9D9;
+  --color-bg-primary: #1E1E1E; /* Fondo principal oscuro en modo oscuro. */
+  --color-bg-secondary: #2C2C2C; /* Fondo secundario más oscuro en modo oscuro. */
+  --color-border-color: #4a5568; /* Borde más oscuro en modo oscuro. */
+}
+
+/* Aplicación de las variables CSS a elementos HTML para que Tailwind las pueda usar. */
+body {
+  color: var(--color-text-primary); /* Color de texto del cuerpo. */
+  background-color: var(--color-bg-primary); /* Color de fondo del cuerpo. */
+}
+
+/* Estilos para elementos específicos que usan las variables. */
+.text-text-primary {
+  color: var(--color-text-primary);
+}
+
+.text-text-secondary {
+  color: var(--color-text-secondary);
+}
+
+.text-text-jab {
+  color: var(--color-text-jab);
+}
+
+.bg-bg-primary {
+  background-color: var(--color-bg-primary);
+}
+
+.bg-bg-secondary {
+  background-color: var(--color-bg-secondary);
+}
+
+.border-border-color {
+  border-color: var(--color-border-color);
+}
