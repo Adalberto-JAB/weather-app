@@ -161,12 +161,4 @@ weather-app/
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://www.google.com/search?q=LICENSE) para más detalles.
 
-## **✉️ Contacto**
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
-
-* **Tu Nombre/Alias:** \[Tu Nombre o Alias\]  
-* **GitHub:** [@tu\_usuario](https://www.google.com/search?q=https://github.com/tu_usuario)  
-* **LinkedIn:** \[Tu Perfil de LinkedIn (opcional)\]
-
 ¡Gracias por revisar este proyecto\!
