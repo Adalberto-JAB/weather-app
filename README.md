@@ -32,32 +32,6 @@ Explora el clima actual, consulta pronósticos de 5 días, gestiona tus ciudades
 * **Indicadores de Carga:**  
   * Un spinner visual que te informa cuando la aplicación está obteniendo datos del clima.
 
-## **📸 Demostración Visual**
-
-Aquí puedes ver la aplicación en acción:
-
-\<\!-- Puedes reemplazar estos placeholders con GIFs o capturas de pantalla reales de tu aplicación. \--\>
-
-**Búsqueda y Visualización del Clima:**
-
-*(Captura de pantalla o GIF mostrando la búsqueda de una ciudad y la visualización de su clima y pronóstico.)*
-
-**Múltiples Coincidencias y Selección:**
-
-*(Captura de pantalla o GIF mostrando el modal de selección de ciudad cuando hay múltiples resultados.)*
-
-**Gestión de Favoritos:**
-
-*(Captura de pantalla o GIF mostrando cómo añadir/eliminar favoritos y el modal de favoritos.)*
-
-**Mapa Interactivo:**
-
-*(Captura de pantalla mostrando el mapa con el marcador de la ciudad.)*
-
-**Alternancia de Tema:**
-
-*(Captura de pantalla o GIF mostrando el cambio entre el tema claro y oscuro.)*
-
 ## **🛠️ Tecnologías Utilizadas**
 
 * **Frontend:**  
