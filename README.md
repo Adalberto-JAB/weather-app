@@ -57,7 +57,7 @@ Asegúrate de tener instalado lo siguiente:
 
 ### **1\. Clonar el Repositorio**
 
-git clone https://github.com/tu\_usuario/tu\_repositorio.git  
+git clone https://github.com/Adalberto-JAB/weather-app  
 cd tu\_repositorio
 
 ### **2\. Instalar Dependencias**
