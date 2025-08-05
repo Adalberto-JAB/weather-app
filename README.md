@@ -1,5 +1,9 @@
 # **☁️ App del Clima Interactiva y Persistente ☀️**
 
+## ** Primero te muestro la app en funcionamiento **
+https://eloraculodelclima.netlify.app/
+
+
 ## **🚀 Introducción**
 
 Bienvenido a la **App del Clima Interactiva y Persistente**, una moderna aplicación web desarrollada con React y Vite que te permite obtener información meteorológica detallada de cualquier ciudad del mundo. Diseñada con una experiencia de usuario intuitiva y un enfoque en la persistencia de datos, esta aplicación es tu compañera ideal para mantenerte informado sobre el clima.
